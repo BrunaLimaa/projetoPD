@@ -1,3 +1,4 @@
+#Testa a conexão HTTP.
 import http.client
 
 conn = http.client.HTTPConnection("192.168.56.105")
