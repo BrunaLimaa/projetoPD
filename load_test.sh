@@ -3,7 +3,6 @@
 if [ $# -ne 4 ]; then
 echo "Uso: $0 <ipserver> <conexoes> <requisicoes> <resultados>"
 exit 1
-
 fi
 
 ipserver=$1
